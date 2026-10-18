@@ -1,0 +1,6 @@
+Please be sure to append your data to this text file.
+
+If these first three lines are deleted, then your program is not functioning as expected.
+
+
+Caitlin Rucker is completing the Module 5 file input and output assignment.
